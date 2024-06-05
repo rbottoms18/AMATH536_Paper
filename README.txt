@@ -1,6 +1,6 @@
 Ronan Bottoms
 
-This assignment was completed as a cumulative final assignment for AMATH 536 Mathematical Modeling of Cancer with Prof. Mamis
+This assignment was completed as a quarter long project for AMATH 536 Mathematical Modeling of Cancer with Prof. Mamis
 at the University of Washington, Spring 2024. The writeup of the assignment can be read in report.pdf.
 
 -----------------------------------------------------------------------------------------------------------
