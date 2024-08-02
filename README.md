@@ -4,7 +4,7 @@
 
 The most common way to treat cancer in a patient is through radiation therapy. A radioactive isotope is
 injected into the patient and causes the DNA of the cancerous cells to break down, resulting in death of
-the cancerous cells. In a paper by Neira, Gago-Arias, Guiu-Souto, and Pardo-Montero (2020), a model is
+the cancerous cells. In a paper by [Neira, Gago-Arias, Guiu-Souto, and Pardo-Montero (2020)](https://iopscience.iop.org/article/10.1088/1361-6560/aba21d/meta), a model is
 introduced for the “kinetics of populations of tumor cells” undergoing continuous radiation therapy. The
 model consists of three categories of cells: healthy (N), sub-lethally damaged (N<sub>s</sub>), and doomed cells (N<sub>d</sub>).
 All cells reproduce with different rates logistically toward a fixed saturation population for the entire tumor.
