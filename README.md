@@ -21,6 +21,10 @@ in the model’s paper we perform simulations of all three models and compare th
 we attempt to reformulate the ODEs of the model as stochastic differential equations (SDEs) and perform
 stochastic simulations of the results.
 
+<p align="center">
+  <img src="https://github.com/rbottoms18/tumor-model/blob/main/img/model_flow_chart_opaque.png" width="400"/>
+</p>
+
 # Code
 
 `main.m` contains functions for modeling the tumor models and radiaiton doses, as well as plotting the results found in `report.pdf`.
